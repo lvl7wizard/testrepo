@@ -5,5 +5,6 @@ Green
 Says "Howdy"
 Swampy
 Not smelly
+Says "Bye dood"
 
 This is a frog

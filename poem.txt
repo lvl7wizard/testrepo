@@ -5,6 +5,7 @@ Squishy
 Green
 Says "Howdy"
 Swampy
+Flaaaare
 Not smelly
 "Hey!"
 Says "Bye dood"

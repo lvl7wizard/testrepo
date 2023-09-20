@@ -2,5 +2,8 @@ The Frog
 
 Squishy
 Green
+Says "Howdy"
 Swampy
+Not smelly
+
 This is a frog

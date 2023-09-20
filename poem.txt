@@ -5,6 +5,7 @@ Green
 Says "Howdy"
 Swampy
 Not smelly
+"Hey!"
 Says "Bye dood"
 
 This is a frog and song
